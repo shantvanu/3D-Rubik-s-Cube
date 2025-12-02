@@ -6,8 +6,7 @@ This project was designed as an original interactive game application, focusing 
 
 🚀 Live Demo
 
-(Optional – after deployment)
-👉 Netlify URL: Coming Soon
+👉 **Netlify URL**: https://dainty-panda-69f487.netlify.app/
 
 📌 Problem Statement & Motivation
 
