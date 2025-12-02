@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { useCube } from './hooks/useCube'
 import { CubeView } from './components/CubeView'
 import { Cube3DView } from './components/Cube3DView'
